@@ -102,6 +102,19 @@ figcaption{
     background-size: cover;
 }
 
+.form {
+    width: 70%;
+    margin-left: 15%;
+    
+
+}
+
+.form-input {
+    width: 70%;
+    margin-left: 15%;
+
+}
+
 .contacts h1 {
     position: relative;
     top: 30px;
