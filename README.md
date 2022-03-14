@@ -8,6 +8,9 @@ Find me on LinkedIn (https://www.linkedin.com/in/jnguttu/)
 # Setup instructions
 This app doesn't require any setup information. To preview, click on the live link below.
 
+# Live Link
+https://joycodes.github.io/delani-studio/
+
 # Technologies used
 Html
 CSS
