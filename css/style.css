@@ -167,10 +167,10 @@ input.error {
     width: auto;
     position: absolute;
     bottom: 0;
-    color: deepskyblue;
+    color: rgb(15, 15, 15);
     text-align: center;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
     padding: 30px;
     height: 100%;
 }
