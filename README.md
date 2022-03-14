@@ -3,6 +3,8 @@ This project demonstrates use of Bootstrap and jQuery to recreate a landing page
 
 # Author
 Joyce Nguttu
+
+# Contact Me
 Find me on LinkedIn (https://www.linkedin.com/in/jnguttu/)
 
 # Setup instructions
