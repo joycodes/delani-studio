@@ -19,5 +19,6 @@ Bootstrap
 
 # License
 This project is licensed under the terms of the MIT license.
+https://github.com/joycodes/delani-studio/blob/3761f22c9c0994b6ff78d000e83ce782ffbf8b4f/LICENSE
 
 
